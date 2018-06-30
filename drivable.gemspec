@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Drivable::VERSION
   s.authors     = ["tranhuyhoangbka"]
   s.email       = ["hoangth92.nd@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Drivable."
-  s.description = "TODO: Description of Drivable."
+  s.homepage    = "https://github.com/tranhuyhoangbka/drivable"
+  s.summary     = "It's a gem for adding feature to vehicles"
+  s.description = "vehicles have turn, brake, accelerate functions"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
